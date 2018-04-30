@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Distribution and publishing directories
+.publishing
+dist
